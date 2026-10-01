@@ -4,11 +4,5 @@
     "description": "Мощный калькулятор с научными функциями",
     "icon": "https://raw.githubusercontent.com/username/repo/main/icons/calc.png",
     "html": "https://raw.githubusercontent.com/username/repo/main/apps/calc.html"
-  },
-  {
-    "name": "Notes App",
-    "description": "Простое и удобное приложение для заметок",
-    "icon": "https://raw.githubusercontent.com/username/repo/main/icons/notes.png",
-    "html": "https://raw.githubusercontent.com/username/repo/main/apps/notes.html"
   }
 ]
